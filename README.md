@@ -8,7 +8,7 @@
 langgraph-supervisor-py - оболочка для LangGraph, которая кардинально упрощает создание систем типа Multi-agent supervisor.
 Появилась через день после анонса хакатона, первая версия без критичных багов - за 5 дней до дедлайна
 
-Реализована следующая схема взаимодействия:
+Реализована следующая схема взаимодействия: 
 ![image](https://github.com/tkodzokov/diizrupt/blob/main/schema.png)
 
 Воспользоваться помощником можно с помощью ноутбука https://github.com/tkodzokov/diizrupt/blob/main/___AI%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA.ipynb
